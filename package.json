@@ -1,0 +1,23 @@
+{
+  "name": "poe_quality_combinator",
+  "version": "0.0.1",
+  "description": "Calculate quality combinations for the vendor recipe in PoE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PurpleMagick/poe_quality_combinator.git"
+  },
+  "author": "PurpleMagick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PurpleMagick/poe_quality_combinator/issues"
+  },
+  "homepage": "https://github.com/PurpleMagick/poe_quality_combinator#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
